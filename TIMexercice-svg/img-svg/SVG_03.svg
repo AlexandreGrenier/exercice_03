@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
 "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg width="300px" height="200px" xml:lang="fr"
+<svg height="200" width="350" xml:lang="fr"
 xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink">
-   <title>cercle</title>
-   <circle cx="50" cy="50" r="40" stroke="white" stroke-width="4" fill="tomato" />
-   <circle cx="130" cy="50" r="40" stroke="tomato" stroke-width="4" fill="white" />
+  <g fill="none" stroke="purple">
+    <path stroke-width="2" d="M5 20 l215 0" />
+    <path stroke-width="4" d="M5 40 l215 0" />
+    <path stroke-width="6" d="M5 60 l215 0" />
+    <path stroke-width="8" d="M5 80 l215 0" />
+    <path stroke-width="10" d="M5 100 l215 0" />
+    <path stroke-width="12" d="M5 120 l215 0" />
+    <path stroke-width="14" d="M5 140 l215 0" />
+    <path stroke-width="16" d="M5 160 l215 0" />
+    <path stroke-width="18" d="M5 180 l215 0" />
+  </g>
+  Sorry, your browser does not support inline SVG.
 </svg>
