@@ -122,40 +122,40 @@ main section article {
   font-size: 250px;
 }
 main .globale:nth-child(even) {
-  background-color: rgba(176, 95, 109, 0.7);
+  background-color: rgba(249,213,229, 0.7);
 }
 main .globale:nth-child(even) section article:nth-child(1) {
-  background-color: rgba(176, 95, 109, 0.7);
+  background-color: rgba(238,172,153, 0.7);
 }
 main .globale:nth-child(even) section article:nth-child(2) {
-  background-color: rgba(235, 107, 86, 0.7);
+  background-color: rgba(224,99,119,0.7);
 }
 main .globale:nth-child(even) section article:nth-child(3) {
-  background-color: rgba(255, 193, 83, 0.7);
+  background-color: rgba(200,51,73, 0.7);
 }
 main .globale:nth-child(even) section article:nth-child(4) {
-  background-color: rgba(70, 36, 70, 0.7);
+  background-color: rgba(224,99,119, 0.7);
 }
 main .globale:nth-child(even) section article:nth-child(5) {
-  background-color: rgba(176, 95, 109, 0.7);
+  background-color: rgba(249,213,229, 0.7);
 }
 main .globale:nth-child(odd) {
-  background-color: rgba(235, 107, 86, 0.7);
+  background-color: rgba(200,51,73, 0.7);
 }
 main .globale:nth-child(odd) section article:nth-child(1) {
-  background-color: rgba(235, 107, 86, 0.7);
+  background-color: rgba(224,99,119, 0.7);
 }
 main .globale:nth-child(odd) section article:nth-child(2) {
-  background-color: rgba(255, 193, 83, 0.7);
+  background-color: rgba(238,172,153, 0.7);
 }
 main .globale:nth-child(odd) section article:nth-child(3) {
-  background-color: rgba(70, 36, 70, 0.7);
+  background-color: rgba(249,213,229, 0.7);
 }
 main .globale:nth-child(odd) section article:nth-child(4) {
-  background-color: rgba(176, 95, 109, 0.7);
+  background-color: rgba(238,172,153, 0.7);
 }
 main .globale:nth-child(odd) section article:nth-child(5) {
-  background-color: rgba(235, 107, 86, 0.7);
+  background-color: rgba(224,99,119, 0.7);
 }
 .globale {
   width: 100%;
